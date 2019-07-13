@@ -103,6 +103,9 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# my dev folders
+/static
+/media
+*migrations
 /venv
-
 /.vscode
